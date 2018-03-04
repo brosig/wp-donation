@@ -21,13 +21,13 @@
 				<tr>
 					<th scope="row"><label for="ps-api-token">Token da API do PagSeguro</label></th>
 					<td>
-						<input name="ps-api-token" type="text" id="blogname" value="1F2C601F7F3E4965B9E1B4A89BF5E6F6" class="regular-text">
+						<input name="ps-api-token" type="text" id="blogname" value="" class="regular-text">
 					</td>
 				</tr>
 				<tr>
 					<th scope="row"><label for="ps-api-email">Email da API do PagSeguro</label></th>
 					<td>
-						<input name="ps-api-email" type="text" id="blogname" value="brosig@gmail.com" class="regular-text">
+						<input name="ps-api-email" type="text" id="blogname" value="" class="regular-text">
 					</td>
 				</tr>
 			</tbody>	
@@ -35,19 +35,19 @@
 				<tr>
 					<th scope="row"><label for="ps-api-app-id">App ID</label></th>
 					<td>
-						<input name="ps-api-app-id" type="text" id="blogname" value="1F2C601F7F3E4965B9E1B4A89BF5E6F6" class="regular-text">
+						<input name="ps-api-app-id" type="text" id="blogname" value="" class="regular-text">
 					</td>	
 				</tr>
 				<tr>
 					<th scope="row"><label for="ps-api-app-key">App Key</label></th>
 					<td>
-						<input name="ps-api-app-key" type="text" id="blogname" value="1F2C601F7F3E4965B9E1B4A89BF5E6F6" class="regular-text">
+						<input name="ps-api-app-key" type="text" id="blogname" value="" class="regular-text">
 					</td>	
 				</tr>
 				<tr>
 					<th scope="row"><label for="ps-api-app-authorization">App Authorization</label></th>
 					<td>
-						<input name="ps-api-app-authorization" type="text" id="blogname" value="1F2C601F7F3E4965B9E1B4A89BF5E6F6" class="regular-text">
+						<input name="ps-api-app-authorization" type="text" id="blogname" value="" class="regular-text">
 					</td>	
 				</tr>
 			</tbody>
