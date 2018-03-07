@@ -22,7 +22,7 @@ function bfp_funcao_do_menu(){
 }
 
 // Enqueues the bfp-scripts to my admin page
-function bfp_admin_scripts() {
+function bfp_admin_scripts($hook) {
 	// Só carrega na página principal do plugin
 	if($hook != 'toplevel_page_plugin-do-brosig') {
 		return;
